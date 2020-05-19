@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DDCCategoryKit_Example' do
+  pod 'DDCCategoryKit', :path => '../'
+
+  target 'DDCCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
