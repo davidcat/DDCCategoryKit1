@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIView+DY_Corner.h"
 
 FOUNDATION_EXPORT double DDCCategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char DDCCategoryKitVersionString[];

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of DDCCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/calayergreen@gmail.com/DDCCategoryKit",
+  "homepage": "https://github.com/davidcat/DDCCategoryKit1",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "calayergreen@gmail.com": "calayergreen@gmail.com"
   },
   "source": {
-    "git": "https://github.com/calayergreen@gmail.com/DDCCategoryKit.git",
+    "git": "https://github.com/davidcat/DDCCategoryKit1.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
-  "source_files": "DDCCategoryKit/Classes/**/*"
+  "source_files": "DDCCategoryKit/Classes/**/*",
+  "dependencies": {
+    "MJRefresh": [
+      "~> 3.4.1"
+    ]
+  }
 }

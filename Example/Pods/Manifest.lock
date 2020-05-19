@@ -1,16 +1,23 @@
 PODS:
-  - DDCCategoryKit (0.1.0)
+  - DDCCategoryKit (0.1.0):
+    - MJRefresh (~> 3.4.1)
+  - MJRefresh (3.4.1)
 
 DEPENDENCIES:
   - DDCCategoryKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MJRefresh
 
 EXTERNAL SOURCES:
   DDCCategoryKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DDCCategoryKit: e8f03133d39e154d2a5057ebd25bb694fbed467d
+  DDCCategoryKit: e51f4a7c80756bdbb33ffc706d4c8e0a42e0e774
+  MJRefresh: 3153c59a363159092c08b2177ec3a7d09f90bfaf
 
-PODFILE CHECKSUM: 15fbd7789dd9c60ce97eb7b3ce00dd89ef79ce39
+PODFILE CHECKSUM: 42e82d423f41eb68fda54e37f806fcaec68ba984
 
 COCOAPODS: 1.9.1
