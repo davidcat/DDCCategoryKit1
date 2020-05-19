@@ -1,0 +1,6 @@
+framework module DDCCategoryKit {
+  umbrella header "DDCCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

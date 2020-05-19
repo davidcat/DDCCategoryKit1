@@ -1,0 +1,16 @@
+PODS:
+  - DDCCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - DDCCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  DDCCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDCCategoryKit: e8f03133d39e154d2a5057ebd25bb694fbed467d
+
+PODFILE CHECKSUM: 15fbd7789dd9c60ce97eb7b3ce00dd89ef79ce39
+
+COCOAPODS: 1.9.1

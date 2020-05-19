@@ -1,0 +1,22 @@
+{
+  "name": "DDCCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of DDCCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/calayergreen@gmail.com/DDCCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "calayergreen@gmail.com": "calayergreen@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/calayergreen@gmail.com/DDCCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDCCategoryKit/Classes/**/*"
+}
